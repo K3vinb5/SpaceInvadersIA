@@ -1,0 +1,1 @@
+Exemplo para overfiting, alem disso simplesmente nao foi bom o suficiente para decorar o proprio nivel, deve-se a funcao fitness nao prioritizar apenas as mortes
